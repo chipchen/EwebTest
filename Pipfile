@@ -1,0 +1,36 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+selenium = "*"
+
+[packages]
+python-dotenv = "*"
+faker = "*"
+pytest = "*"
+allure-pytest = "*"
+pymysql = "*"
+poium = "*"
+selenium-page-objects = {index = "https://testpypi.python.org/pypi", version = "*"}
+pyyaml = "*"
+ddt = "*"
+pandas = "*"
+xlrd = "*"
+openpyxl = "*"
+webdriver-manager = "*"
+marionette-client = "*"
+selenium = "*"
+pyautoit = "*"
+pywin32 = "*"
+pypiwin32 = "*"
+tesseract = "*"
+pytesseract = "*"
+pyautogui = "*"
+pywinauto = "*"
+pykeyboard = "*"
+pyuserinput = "*"
+
+[requires]
+python_version = "3.8"

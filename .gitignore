@@ -1,0 +1,6 @@
+/allure-report
+/report
+/screenshot
+*.log
+/.idea
+/.pytest_cache
